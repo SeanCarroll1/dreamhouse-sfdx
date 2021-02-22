@@ -1,8 +1,8 @@
 pipeline{
 
-    environment{
-        toolbelt = tool 'sfdx_toolbelt'
-    }
+    //environment{
+      //  toolbelt = tool 'sfdx_toolbelt'
+    //}
 
     //agent {
       //  label 'Windows_Slave_1'
